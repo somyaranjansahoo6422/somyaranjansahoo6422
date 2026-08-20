@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Sonu!<br><br>🔭 I’m currently an intern at TEN(The Entrepreneurship Network)<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably exploring the world
+Hi there 👋<br><br>
+Nice meeting you, I'm Sonu!<br><br>
+🔭 I’m currently an intern at TEN(The Entrepreneurship Network)<br>
+😄 Pronouns: He/His<br>
+⚡ Fun fact: If I am not coding then I am probably exploring the world
 
 
 ## 🌐 Socials:
