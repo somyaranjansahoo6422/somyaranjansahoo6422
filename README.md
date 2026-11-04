@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi there 👋<br><br>
 Nice meeting you, I'm <b>Sonu!</b><br><br>
-💻 Now working for next rounds in <b>SIH-2026</b> meanwhile participated in <b>HHGOA-2026</b><br>
+📊 Working towards becoming a <b>data analyst</b>, while growing into an all-round software engineer<br>
+💻 Building with <b>Team ASTRA-X</b>: Best Innovation Team at <b>CHAKRAVYUH 1.0</b> and national finalist at <b>India Innovates 2026</b><br>
 🔭 Recently I was an intern at <b>TEN(The Entrepreneurship Network)</b><br>
 😄 Pronouns: He/His<br>
 ⚡ Fun fact: If I am not coding then I am probably exploring the world....
