@@ -9,4 +9,4 @@ Nice meeting you, I'm <b>Sonu!</b><br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somya-ranjan-sahoo-109599312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:6422somyaranjansahoo@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6A3D?logo=githubpages&logoColor=white)](https://somyaranjansahoo6422.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somya-ranjan-sahoo-109599312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:6422somyaranjansahoo@gmail.com) 
