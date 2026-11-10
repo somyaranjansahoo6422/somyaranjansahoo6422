@@ -1,3 +1,4 @@
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px" />![Profile Views](https://komarev.com/ghpvc/?username=somyaranjansahoo6422)
 # 💫 About Me:
 Hi there 👋<br><br>
 Nice meeting you, I'm <b>Sonu!</b><br><br>
